@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-VnExpressApp/Pods-VnExpressApp-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Appirater/Appirater.framework
+${BUILT_PRODUCTS_DIR}/Nuke/Nuke.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
+${BUILT_PRODUCTS_DIR}/SwiftSoup/SwiftSoup.framework

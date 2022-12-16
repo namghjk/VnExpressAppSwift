@@ -1,0 +1,6 @@
+framework module Pods_VnExpressApp {
+  umbrella header "Pods-VnExpressApp-umbrella.h"
+
+  export *
+  module * { export * }
+}

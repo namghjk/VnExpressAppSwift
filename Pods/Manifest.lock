@@ -1,0 +1,30 @@
+PODS:
+  - Appirater (2.3.1)
+  - Nuke (10.7.1)
+  - SDWebImage (5.14.2):
+    - SDWebImage/Core (= 5.14.2)
+  - SDWebImage/Core (5.14.2)
+  - SwiftSoup (2.4.3)
+
+DEPENDENCIES:
+  - Appirater
+  - Nuke
+  - SDWebImage
+  - SwiftSoup
+
+SPEC REPOS:
+  trunk:
+    - Appirater
+    - Nuke
+    - SDWebImage
+    - SwiftSoup
+
+SPEC CHECKSUMS:
+  Appirater: 44a4651f7912a17dc906b655f0c215d5bb768b84
+  Nuke: 279f17a599fd1c83cf51de5e0e1f2db143a287b0
+  SDWebImage: b9a731e1d6307f44ca703b3976d18c24ca561e84
+  SwiftSoup: 3384f2e618cfc1b3cbc7852c16692fe8de13fb8f
+
+PODFILE CHECKSUM: dc96fa92e18900886490381ed026583a0a5c464e
+
+COCOAPODS: 1.8.4
